@@ -5,7 +5,7 @@ import { PropsWithChildren } from "react";
 import "../globals.css";
 
 export const metadata = {
-  Title: "Threads",
+  title: "Threads",
   description: "Threads app copy",
 };
 
